@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>My Application Updates</title>
+  <link>https://CjshadowBurner.github.io/SampleRSSFeed/</link>
+  <description>This feed provides updates from my Python applications.</description>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 30 Nov 2023 12:00:00 GMT</lastBuildDate>
+  
+  <item>
+    <title>Update 1</title>
+    <description>This is the first update.</description>
+    <link>https://CjshadowBurner.github.io/SampleRSSFeed/update1</link>
+    <guid>https://CjshadowBurner.github.io/SampleRSSFeed/update1</guid>
+    <pubDate>Tue, 30 Nov 2023 09:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Update 2</title>
+    <description>This is the second update.</description>
+    <link>https://CjshadowBurner.github.io/SampleRSSFeed/update2</link>
+    <guid>https://CjshadowBurner.github.io/SampleRSSFeed/update2</guid>
+    <pubDate>Tue, 30 Nov 2023 10:00:00 GMT</pubDate>
+  </item>
+
+</channel>
+</rss>
